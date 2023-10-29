@@ -1,0 +1,44 @@
+/* body {
+  font-family: "IBM Plex Mono", sans-serif;
+  font-family: "IBM Plex Mono Thin", sans-serif;
+  font-family: "IBM Plex Mono ExtraLight", sans-serif;
+  
+  font-family: "IBM Plex Mono Medium", sans-serif;
+  font-family: "IBM Plex Mono SemiBold", sans-serif;
+} */
+body {
+  font-family: "IBM Plex Mono", sans-serif;
+}
+p {
+  margin: 0px 0px;
+}
+.x-big {
+  font-size: 54px;
+  line-height: 60px;
+}
+.x-big-2 {
+  font-size: 48px;
+  line-height: 55px;
+}
+.big {
+  font-size: 23px;
+}
+.medium {
+    font-size: 18px;
+}
+.normal {
+    font-size: 14px;
+}
+.small {
+  font-size: 13px;
+}
+.bold {
+  font-family: "IBM Plex Mono", sans-serif;
+}
+.bolder {
+  font-family: "IBM Plex Mono SemiBold", sans-serif;
+}
+
+.pointer:hover {
+    cursor: pointer;
+}
